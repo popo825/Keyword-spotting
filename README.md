@@ -1,1 +1,1 @@
-# Keyword-spotting
+# Keyword-spotting (NYCU-CS Project Competition)
